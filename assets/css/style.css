@@ -1,16 +1,16 @@
-/**/
+/*Styles elements on the page*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-/**/
+/*Styles body background*/
 body {
     background-color: #d9dcd6;
 }
 
-/**/
+/*Header Styling*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -18,18 +18,18 @@ body {
     color: #ffffff;
 }
 
-/**/
+/*H1 tag styling*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-/**/
+/*"seo" styling in the word Horiseon*/
 .header h1 .seo {
     color: #d9dcd6;
 }
 
-/**/
+/*header styling*/
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -38,24 +38,25 @@ body {
     font-size: 20px;
 }
 
-/*Combining Header Section tagsn new CSS*/
+/*Combining Header Section tagsn new CSS & puts list in line */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
     list-style-type: none;
 }
 
-/**/
+/*link stylinf*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-/**/
+/*paragraph style*/
 p {
     font-size: 18px;
 }
 
+/*Background image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -65,16 +66,19 @@ p {
     background-position: center;
 }
 
+/*floats picture left*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/*floats picture right*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/*Styles content section*/
 .content {
     width: 75%;
     display: inline-block;
@@ -82,6 +86,7 @@ p {
     
 }
 
+/*Styles benefits aside*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -93,25 +98,26 @@ p {
     background-color: #2589bd;
 }
 
+/*text/benefit aside style*/
 .benefit-info {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-
+/*header styling*/
 .benefit-info h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-
+/*Aside picture style*/
 .benefit-info img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-
+/*Styles each container in the content section*/
 .main-content {
     margin-bottom: 20px;
     padding: 50px;
@@ -121,18 +127,20 @@ p {
     color: #ffffff;
 }
 
-
+/*Adjusts heights of images in content section*/
 .main-content img {
     max-height: 200px;
 }
 
 
+/*Adjusts text of heading in content section*/
 .main-content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
 
+/*footer styling*/
 .footer {
     padding: 30px;
     clear: both;
