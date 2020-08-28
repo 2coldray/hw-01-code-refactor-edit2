@@ -225,4 +225,9 @@ I used the Div tag example on this website: http://www.davidmacd.com/blog/altern
    limitations under the License.
 
 
+## Badges
+
+![badmath](https://img.shields.io/badge/HTML-100%25-blue)
+
+
 
