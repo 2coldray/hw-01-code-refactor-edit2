@@ -1,8 +1,17 @@
 # HW-01-Refactor-Edit
 
+## Table of Contents
+
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
+* [Badges](#badges)
+
 ## Description
 
-For this assignment, a HTML file and CSS sheet for a website was provided. Upon investigating the HTML file, there were little comments, semantic elements and it was not very accessible. While the webpage opens in a web browser, there were links that did not function properly on the page. The first thing that was done was fixing broken links on the page and adding the appropriate HTML semantic elements to the page. Next, the classes on the CSS sheets were consolidated to prevent from using multiple classes that used the same style. Comments were also added to the sheet for easier reading. The website and the code are now cleaner and more accessible for future users of the website and engineers who work with the codebase.
+For this assignment, a HTML file and CSS sheet for a website was provided. Upon investigating the HTML file, there were little comments, semantic elements and it was not very accessible. While the webpage opens in a web browser, there were links that did not function properly on the page. The first thing done was fixing the broken links on the page and adding the appropriate HTML semantic elements and comments to the page. Next, the classes on the CSS sheets were consolidated to prevent from using multiple classes with the same style. Comments were also added to the CSS sheet for easier reading. The website and the code are now cleaner and more accessible for future users of the website and engineers who work with the codebase.
 
 ## Installation
 
@@ -20,7 +29,7 @@ Website should look like picture below:
 
 I used the Div tag example on this website: http://www.davidmacd.com/blog/alternate-text-for-css-background-images.html to make a tag for the background image on the HTML page.
 
-## Licesnse
+## License
 
                                  Apache License
                            Version 2.0, January 2004
